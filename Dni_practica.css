@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+body {
+  background-color: white;
+}
+
+.okTest {
+  background-color: white;
+  color: green;
+}
+
+.koTest {
+  background-color: white;
+  color: red;
+}
